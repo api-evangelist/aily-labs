@@ -1,0 +1,27 @@
+# Aily Labs
+
+> Aily Labs is a Munich-based enterprise AI company that builds an AI Decision Intelligence Suite — a platform connecting siloed internal and external data to deliver real-time, explainable predictions and recommendations across enterprise functions. Aily Labs is a portfolio company of Insight Partners. It exposes no public developer API; this profile captures its corporate, security, and compliance surface.
+
+## About
+- Product: AI Decision Intelligence Suite (300+ validated predictive models, 1-day deployment, iOS app)
+- Functions covered: Finance, R&D, Supply Chain, Manufacturing, Quality, Go-To-Market, Procurement, People
+- Industries: Healthcare & Life Sciences, Consumer Goods, Luxury & Fashion, Media & Tech, Retail, Services
+- Notable client: Sanofi
+- Backed by: Insight Partners
+
+## Company
+- Website: https://www.ailylabs.com/
+- News & Insights: https://www.ailylabs.com/news-and-insights
+- Contact: https://www.ailylabs.com/contact
+- Careers: https://www.ailylabs.com/company/careers
+- LinkedIn: https://www.linkedin.com/company/ailylabs
+- Instagram: https://www.instagram.com/ailylabs
+
+## Legal & Compliance
+- Privacy Policy: https://www.ailylabs.com/privacy-policy
+- Cookie Policy: https://www.ailylabs.com/cookie-policy
+- Legal Notice: https://www.ailylabs.com/legal-notice
+- Compliance posture: SOC 2 Type 2, ISO certified, GDPR, CyberVadis Gold
+
+## Notes
+- No public API, OpenAPI/AsyncAPI spec, SDK, CLI, MCP server, or developer portal was found (checked homepage, careers, /.well-known/* — all 404).
